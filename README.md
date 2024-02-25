@@ -27,7 +27,14 @@
 
 ## My projects:
 
+###  UI-тесты
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=M0R0K&repo=Ui_Project)](https://github.com/M0R0K/Ui_Project)
 
+### API-тесты
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=M0R0K&repo=Api_Project)](https://github.com/M0R0K/Api_Project)
+
+###  Mobile-тесты
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=M0R0K&repo=Mobile_Project)](https://github.com/M0R0K/Mobile_Project)
 
 ## My github stats: =)
 <p align="center">
