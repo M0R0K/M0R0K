@@ -44,5 +44,5 @@
 
 ## Contacts:
 
-<img width="3%" title="Telegram" src="media/logo/Telegram.svg"></a> - @Alex_massonov
+<img width="5%" title="Telegram" src="media/logo/Telegram.svg"></a> - @Alex_massonov
 
