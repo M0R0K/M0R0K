@@ -1,7 +1,7 @@
 ## About me:
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=	#FFC0CB&random=false&width=435&lines=My+name+is+Kostya%2C+I'm+QA+engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=#FFC0CB&random=false&width=435&lines=My+name+is+Kostya%2C+I'm+QA+engineer)](https://git.io/typing-svg)
 
 Занимаюсь тестированием веб и мобильных приложений. 
 
