@@ -3,6 +3,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFC0CB&random=false&width=435&lines=My+name+is+Kostya%2C+I'm+QA+engineer)](https://git.io/typing-svg)
 
+Работаю в компании [CSSSR](https://www.csssr.ru) 
+
 Занимаюсь тестированием веб и мобильных приложений. 
 
 В данный момент занимаюсь изучением языка Java и использованием его возможностей для улучшения своих тестов
