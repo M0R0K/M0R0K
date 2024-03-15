@@ -38,7 +38,7 @@
 ###  Mobile-тесты
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=M0R0K&repo=Mobile_Project)](https://github.com/M0R0K/Mobile_Project)
 
-## My github stats: =)
+## My github stats:
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M0R0K&theme=tokyonight" alt="Profile Details">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=M0R0K&theme=tokyonight" alt="Stats">
